@@ -1,0 +1,15 @@
+button{
+    border: none;
+    outline: none;
+    display: inline-block;
+    padding: 40px;
+    
+}
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: blueviolet;
+    margin-top: 160px;
+    display: block
+
+}
